@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">q</string>
+    <string name="a">Основной</string>
+    <string name="b">Антон Бенедиктович</string>
+    <string name="c">Антон, привези желтую папку из офиса</string>
+    <string name="d">Укажите место доставки</string>
+    <string name="e">Может выполняться совместно</string>
+    <string name="a1">Укажите дату и время доставки</string>
+    <string name="bn">Укажите место доставки</string>
+    <string name="a2">Антон Бенедиктович</string>
+    <string name="fb">Основной</string>
+    <string name="feds">Антон, привези желтую папку из офиса</string>
+    <string name="tyu">Может выполняться совместно</string>
+
+
+</resources>
